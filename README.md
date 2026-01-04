@@ -1,4 +1,4 @@
-#BUY BUDDY
+# BUY BUDDY
 # React + Vite
 # Ecommerce Store
 
